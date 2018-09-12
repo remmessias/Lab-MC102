@@ -1,0 +1,244 @@
+116
+A00 Colera
+A01 Febres tifoide e paratifoide
+A02 Outras infeccoes por Salmonella
+A03 Shiguelose
+A04 Outras infeccoes intestinais bacterianas
+A06 Amebiase
+A07 Outras doencas intestinais por protozoarios
+A08 Infeccoes intestinais virais, outras e as nao especificadas
+A09 Diarreia e gastroenterite de origem infecciosa presumivel
+A15 Tuberculose respiratoria, com confirmacao bacteriologica e histologica
+A17 Tuberculose do sistema nervoso
+A20 Peste
+A21 Tularemia
+A22 Carbunculo
+A23 Brucelose
+A24 Mormo e melioidose
+A25 Febres transmitidas por mordedura de rato
+A27 Leptospirose
+A30 Hanseniase
+A33 Tetano do recem-nascido
+A34 Tetano obstetrico
+A36 Difteria
+A37 Coqueluche
+A38 Escarlatina
+A39 Infeccao meningogocica
+A50 Sifilis congenita
+A51 Sifilis precoce
+A52 Sifilis tardia
+B37 Candidiase
+B38 Coccidioidomicose
+B39 Histoplasmose
+B40 Blastomicose
+B41 Paracoccidioidomicose
+B42 Esporotricose
+B57 Doenca de Chagas
+B58 Toxoplasmose
+B68 Infestacao por Taenia
+B69 Cisticercose
+B74 Filariose
+B77 Ascaridiase
+C00 Neoplasia maligna do labio
+C01 Neoplasia maligna da base da lingua
+C03 Neoplasia maligna da gengiva
+C88 Doencas imunoproliferativas malignas
+C90 Mieloma multiplo e neoplasias malignas de plasmocitos
+C91 Leucemia linfoide
+C92 Leucemia mieloide
+D03 Melanoma in situ
+D50 Anemia por deficiencia de ferro
+D51 Anemia por deficiencia de vitamina B12
+D52 Anemia por deficiencia de folato
+E06 Tireoidite
+E10 Diabetes mellitus insulino-dependente
+E11 Diabetes mellitus nao-insulino-dependente
+E28 Disfuncao ovariana
+E29 Disfuncao testicular
+E66 Obesidade
+F10 Transtornos mentais e comportamentais devidos ao uso de alcool
+F20 Esquizofrenia
+F21 Transtorno esquizotipico
+F33 Transtorno depressivo recorrente
+F34 Transtornos de humor [afetivos] persistentes
+H10 Conjuntivite
+H16 Ceratite
+H17 Cicatrizes e opacidades da cornea
+H25 Catarata senil
+H40 Glaucoma
+H53 Disturbios visuais
+H54 Cegueira e visao subnormal
+H60 Otite externa
+I11 Doenca cardiaca hipertensiva
+I12 Doenca renal hipertensiva
+I13 Doenca cardiaca e renal hipertensiva
+I15 Hipertensao secundaria
+I74 Embolia e trombose arteriais
+J09 Influenza [gripe] devida a virus identificado da gripe aviaria
+J10 Influenza devida a outro virus da influenza [gripe] identificado
+J11 Influenza [gripe] devida a virus nao identificado
+J12 Pneumonia viral nao classificada em outra parte
+J45 Asma
+J40 Bronquite nao especificada como aguda ou cronica
+J41 Bronquite cronica simples e a mucopurulenta
+J42 Bronquite cronica nao especificada
+K25 ulcera gastrica
+K26 ulcera duodenal
+K27 ulcera peptica de localizacao nao especificada
+K28 ulcera gastrojejunal
+K29 Gastrite e duodenite
+K30 Dispepsia
+N17 Insuficiencia renal aguda
+N18 Insuficiencia renal cronica
+N70 Salpingite e ooforite
+N71 Doenca inflamatoria do utero, exceto o colo
+N72 Doenca inflamatoria do colo do utero
+N91 Menstruacao ausente, escassa e pouco frequente
+N92 Menstruacao excessiva, frequente e irregular
+O03 Aborto espontaneo
+O04 Aborto por razoes medicas e legais
+O15 Eclampsia
+Q30 Malformacao congenita do nariz
+Q31 Malformacoes congenitas da laringe
+Q32 Malformacoes congenitas da traqueia e dos bronquios
+Q33 Malformacoes congenitas do pulmao
+R05 Tosse
+R06 Anormalidades da respiracao
+R07 Dor de garganta e no peito
+R51 Cefaleia
+S01 Ferimento da cabeca
+S02 Fratura do cranio e dos ossos da face
+S03 Luxacao, entorse ou distensao das articulacoes e dos ligamentos da cabeca
+S88 Amputacao traumatica da perna
+T15 Corpo estranho na parte externa do olho
+T16 Corpo estranho no ouvido
+T20 Queimadura e corrosao da cabeca e pescoco
+T21 Queimadura e corrosao do tronco
+T22 Queimadura e corrosao do ombro e membro superior, exceto punho e mao
+54
+41132 Aarao Mendes Pinto Neto
+3523 Aarao Moyses Serrulha
+20621 Abaete Leite Do Canto
+10844 Abaete Pascoal Carneiro
+16149 Abdala Atique
+61071 Abdala Jorge Lauand Neto
+2601 Abdalla Abduch
+78594 Abdalla Youssef Skaf
+48085 Abdel Hafid Farid
+117584 Abdel Jawad Netto
+80898 Abdel Latif Hasan Abdel Latif
+67165 Abdenack Esteves Trindade
+114742 Abderval Pinto Bandeira Neto
+16033 Abdes Salam Khalil Isa Jaber
+22544 Abdo Aziz Mohamed Adi
+74146 Abdo Hassan Salman
+44855 Abdo Mourad
+46086 Abdo Nassif Cassab Junior
+45303 Pabla Clotilde Ortiz Mendes
+128568 Pablicio Martins Ferreira
+106740 Pabline Barbosa Lima Almeida
+62635 Pablius Staduto Braga Da Silva
+27120 Pablo Alberto Guzovsky
+35661 Pablo Alfredo Piccini Diaz
+142283 Pablo Alvarez Auth
+90157 Pablo Anibal Gutierrez Pozo
+85431 Pablo Antonio Rodriguez Leon
+110871 Pablo Augusto De Albuquerque Maranhao
+143444 Pablo Augusto Fonseca De Lima
+137410 Pablo Bezerra Di Lemos Barroso
+75904 Pablo Bismar Toledo Rivero
+133051 Pablo Borges De Abreu
+82501 Pablo Braga Gusman
+137939 Pablo Cesar Cornejo Toledo
+127799 Pablo Coutinho Malheiros
+132380 Pablo Da Cunha Spinola
+102938 Pablo Da Silva Mendes
+103648 Pablo De Oliveira Antunes
+144128 Pablo De Oliveira Lopes
+131956 Pablo De Queiroz Santos
+50014 Pablo Delgadillo Fuentes
+128724 Pablo Domingos Benedetti Pena
+111339 Pablo Domingos Rodrigues De Nicola
+131828 Pablo Eduardo Elias
+11701 Pablo Enrique Palacios Cuellar
+46004 Pablo Esteban Fernando Caceres Vera
+30985 Branca Maria Liviero
+7068 Branca Thereza Carvalho Lopes
+67169 Branca Valeria Salomon Bertocchi
+116495 Branca Vasconcelos De Araujo Pereira
+135523 Branda De Oliveira Benicio
+52274 Brandao Gomes Co
+20776 Branderley Claudio
+2546 Brandino Francisco Genovesi
+4 5
+1 20
+A
+add GFOREGLQGFNKTWQKUSRDQK 1/1/2015 Q30 46004
+add GFORGOGOAWTKFSMWAWKBTQQK 1/1/2015 Q30 46004
+add BLGFDEORSEJAOENAQETPCAUSRDIGFM 1/1/2015 Q30 46004
+add GFOROUCYXGANPVCAGVKTSL 1/1/2015 Q30 46004
+add KQUPEVLQLCEIILEXGONAQNUS 1/1/2015 Q30 46004
+add KQANIWPIQKUSRDQKIWTPBE 1/1/2015 Q30 46004
+add KQUPNKPIGIJAQKUSRDQK 1/1/2015 Q30 46004
+add OGSHGOJUFUMWSVTIXGAWCNYQ 3/3/2015 S02 20776
+add OGICVXYCGFHCWKCDNATFPIPA 3/3/2015 S02 20776
+add KQJXRQXGQRIWTPPIJCCAOQ 3/3/2015 S02 20776
+add OGANGPUSILUSEXGONAQNUS 3/3/2015 S02 20776
+add OVSEKOSLRCYCEBMXLIDMBCCA 3/3/2015 S02 20776
+add OVSEOKTDQKAHMWNATFPIXG 3/3/2015 S02 20776
+add OVBOEVYDNKTWQKUSRDQK 3/3/2015 S02 20776
+add OVBOIVUCGPRDROUQOOHCUCJAQEQRVSGW 3/3/2015 S02 20776
+add SLOQRQEIIZNKHCTWEVUQCA 5/5/2015 N17 128724
+add MNBOROQAVTEQKOPUCH 5/5/2015 N17 128724
+add VXSLXAUMAKSVOVBOMDIWTPHCEIYI 5/5/2015 N17 128724
+add KFOQPIQKUSRDQKWMYGBVUCOU 5/5/2015 N17 128724
+add GPWMTWASHCGVBVXMKOJITIXOXGEIQR 5/5/2015 N17 128724
+add GPUPRCQEPVQRGFMBTQHC 5/5/2015 N17 128724
+add GPOTWMFZKOQKYTIWTPEQ 5/5/2015 N17 128724
+add SLSEMDAWKBEIICEOOGEVLUOCHCOG 5/5/2015 N17 128724
+add SLWMRDCIWWNKZUEXGONAQNGOJUGV 5/5/2015 N17 128724
+add OGRDNAIGLQOEGOWKCEEX 5/5/2015 N17 128724
+add KQRMTQNASIKFDMAXEGMWFVIE 5/5/2015 N17 128724
+add KQRMTQQEQRVSTWIYGPAXNKFU 6/7/2015 R05 111339
+add WMAFGIWMWGTQEBMXLIMW 6/7/2015 R05 111339
+add OGAFUUFSDMMNFZQKUSRDQK 6/7/2015 R05 111339
+add SWEVTQSWLGOEORORAWMNPJLQ 6/7/2015 R05 111339
+add WMAFGIMNANGFNATFPIXGWWSL 6/7/2015 R05 111339
+add TQYCWMFZKOQKYTIWTPEQ 6/7/2015 R05 111339
+add SHWILQPIKOROCEQWSUIGLQOOEXICYXKM 6/7/2015 R05 111339
+add UPVQSMWWNKZUEXGONAQNGOJUGV 6/7/2015 R05 111339
+add WMAFTQMULQOEGOWKCEEX 6/7/2015 R05 111339
+add WMLGHUEOTPCAICLIIL 6/7/2015 R05 111339
+add WMAFTQGPGQHCWKCDGFHAHMEIQR 6/7/2015 R05 111339
+add KQQRPVFUEIVXAEKOAKXFRQSEYT 6/7/2015 R05 111339
+add SLANSYGVVXXGEXGONAQNAQ 6/7/2015 R05 111339
+add OVPEASGISWLGOEORORAWMNPJLQEY 6/7/2015 R05 111339
+rm LUIZRIBEIRODOSSANTOS
+rm LUIZZSAELINTONGUIMARAESDEARAUJOQ
+rm LAUSATEIXEIRARODRIGUES
+rm LEIZONGONZAGACUNHA
+rm LLLAUZIIIETELUIZDASILVAREISG
+rm LOUSADOSSANTOSMAGALHAESE
+rm LIMAODECARVALHOJACOBINAPEREIRA
+rm DENISCORDEIRODOSSANTOS
+rm DENISSSSCOUTOVASCONCELOS
+rm LINEUDEANDRADERUELAR
+rm LIZOMARDACOSTASILVAG
+rm LAISDACONCEICAOAMORIMDOCARMO
+rm LAMANTAQUEIROZDOSSANTOSSILVA
+rm MONTANAMORAISSAUCEDO
+rm MICHELANGELOALVESCASTROG
+rm MICHELEARAUJODEOLIVEIRAB
+rm MARCIAMACIELBATISTAS
+rm MORCEGOVALLERDOSSANTOS
+rm MURIELMUGNAININICOLETTOR
+rm MOCALLIODEARAUJOANDRADEF
+rm MINHATERRASILVADEJESUS
+rm MONALISAROSADOSSANTOSA
+add OVBOIVUCGPRDROUQOOHCUCJAQEQRVSGW 3/3/2015 S02 20776
+add SLOQRQEIIZNKHCTWEVUQCA 5/5/2015 N17 128724
+add MNBOROQAVTEQKOPUCH 5/5/2015 N17 128724
+add VXSLXAUMAKSVOVBOMDIWTPHCEIYI 5/5/2015 N17 128724
+add KFOQPIQKUSRDQKWMYGBVUCOU 5/5/2015 N17 128724
+0
+

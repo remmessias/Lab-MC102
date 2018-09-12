@@ -1,0 +1,90 @@
+/*
+                        somatoriaPixels += cinza[i-4][j-4]*M[0][0];
+                        somatoriaPixels += cinza[i-4][j-3]*M[0][1];
+                        somatoriaPixels += cinza[i-4][j-2]*M[0][2];
+                        somatoriaPixels += cinza[i-4][j-1]*M[0][3];
+                        somatoriaPixels += cinza[i-4][j]*M[0][4];
+                        somatoriaPixels += cinza[i-4][j+1]*M[0][5];
+                        somatoriaPixels += cinza[i-4][j+2]*M[0][6];
+                        somatoriaPixels += cinza[i-4][j+3]*M[0][7];
+                        somatoriaPixels += cinza[i-4][j+4]*M[0][8];
+
+                        somatoriaPixels += cinza[i-3][j-4]*M[1][0];
+                        somatoriaPixels += cinza[i-3][j-3]*M[1][1];
+                        somatoriaPixels += cinza[i-3][j-2]*M[1][2];
+                        somatoriaPixels += cinza[i-3][j-1]*M[1][3];
+                        somatoriaPixels += cinza[i-3][j]*M[1][4];
+                        somatoriaPixels += cinza[i-3][j+1]*M[1][5];
+                        somatoriaPixels += cinza[i-3][j+2]*M[1][6]; 
+                        somatoriaPixels += cinza[i-3][j+3]*M[1][7];
+                        somatoriaPixels += cinza[i-3][j+4]*M[1][8];
+
+                        somatoriaPixels += cinza[i-2][j-4]*M[2][0];
+                        somatoriaPixels += cinza[i-2][j-3]*M[2][1];
+                        somatoriaPixels += cinza[i-2][j-2]*M[2][2];
+                        somatoriaPixels += cinza[i-2][j-1]*M[2][3];
+                        somatoriaPixels += cinza[i-2][j]*M[2][4];
+                        somatoriaPixels += cinza[i-2][j+1]*M[2][5];
+                        somatoriaPixels += cinza[i-2][j+2]*M[2][6];
+                        somatoriaPixels += cinza[i-2][j+3]*M[2][7];
+                        somatoriaPixels += cinza[i-2][j+4]*M[2][8];
+
+                        somatoriaPixels += cinza[i-1][j-4]*M[3][0];
+                        somatoriaPixels += cinza[i-1][j-3]*M[3][1];
+                        somatoriaPixels += cinza[i-1][j-2]*M[3][2];
+                        somatoriaPixels += cinza[i-1][j-1]*M[3][3];
+                        somatoriaPixels += cinza[i-1][j]*M[3][4];
+                        somatoriaPixels += cinza[i-1][j+1]*M[3][5];
+                        somatoriaPixels += cinza[i-1][j+2]*M[3][6];
+                        somatoriaPixels += cinza[i-1][j+3]*M[3][7];
+                        somatoriaPixels += cinza[i-1][j+4]*M[3][8];
+
+                        somatoriaPixels += cinza[i][j-4]*M[4][0];
+                        somatoriaPixels += cinza[i][j-3]*M[4][1];
+                        somatoriaPixels += cinza[i][j-2]*M[4][2];
+                        somatoriaPixels += cinza[i][j-1]*M[4][3];
+                        somatoriaPixels += cinza[i][j]*M[4][4];
+                        somatoriaPixels += cinza[i][j+1]*M[4][5];
+                        somatoriaPixels += cinza[i][j+2]*M[4][6];
+                        somatoriaPixels += cinza[i][j+3]*M[4][7];
+                        somatoriaPixels += cinza[i][j+4]*M[4][8];
+
+                        somatoriaPixels += cinza[i+1][j-4]*M[5][0];
+                        somatoriaPixels += cinza[i+1][j-3]*M[5][1];
+                        somatoriaPixels += cinza[i+1][j-2]*M[5][2];
+                        somatoriaPixels += cinza[i+1][j-1]*M[5][3];
+                        somatoriaPixels += cinza[i+1][j]*M[5][4];
+                        somatoriaPixels += cinza[i+1][j+1]*M[5][5];
+                        somatoriaPixels += cinza[i+1][j+2]*M[5][6];
+                        somatoriaPixels += cinza[i+1][j+3]*M[5][7];
+                        somatoriaPixels += cinza[i+1][j+4]*M[5][8];
+
+                        somatoriaPixels += cinza[i+2][j-4]*M[6][0];
+                        somatoriaPixels += cinza[i+2][j-3]*M[6][1];
+                        somatoriaPixels += cinza[i+2][j-2]*M[6][2];
+                        somatoriaPixels += cinza[i+2][j-1]*M[6][3];
+                        somatoriaPixels += cinza[i+2][j]*M[6][4];
+                        somatoriaPixels += cinza[i+2][j+1]*M[6][5];
+                        somatoriaPixels += cinza[i+2][j+2]*M[6][6];
+                        somatoriaPixels += cinza[i+2][j+3]*M[6][7];
+                        somatoriaPixels += cinza[i+2][j+4]*M[6][8];
+
+                        somatoriaPixels += cinza[i+3][j-4]*M[7][0];
+                        somatoriaPixels += cinza[i+3][j-3]*M[7][1];
+                        somatoriaPixels += cinza[i+3][j-2]*M[7][2];
+                        somatoriaPixels += cinza[i+3][j-1]*M[7][3];
+                        somatoriaPixels += cinza[i+3][j]*M[7][4];
+                        somatoriaPixels += cinza[i+3][j+1]*M[7][5];
+                        somatoriaPixels += cinza[i+3][j+2]*M[7][6];
+                        somatoriaPixels += cinza[i+3][j+3]*M[7][7];
+                        somatoriaPixels += cinza[i+3][j+4]*M[7][8];
+
+                        somatoriaPixels += cinza[i+4][j-4]*M[8][0];
+                        somatoriaPixels += cinza[i+4][j-3]*M[8][1];
+                        somatoriaPixels += cinza[i+4][j-2]*M[8][2];
+                        somatoriaPixels += cinza[i+4][j-1]*M[8][3];
+                        somatoriaPixels += cinza[i+4][j]*M[8][4];
+                        somatoriaPixels += cinza[i+4][j+1]*M[8][5];
+                        somatoriaPixels += cinza[i+4][j+2]*M[8][6];
+                        somatoriaPixels += cinza[i+4][j+3]*M[8][7];
+                        somatoriaPixels += cinza[i+4][j+4]*M[8][8];*/
